@@ -11,11 +11,14 @@ import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import javax.swing.RowFilter;
 
+
 public class IngresoDatosPersonal extends javax.swing.JFrame {
     ImgFondo p = new ImgFondo();
     private TableRowSorter trsfiltro;
-    String filtro;
+    String filtros;
     int fila;
+    int columna;
+    int row;
     Personal personal = new Personal();
     Metodos metodos = new Metodos();
     DefaultTableModel mdlTable;
