@@ -1,0 +1,2 @@
+Gabriel|Hidalgo|356595|356595|Contratado|160000
+Tomas|Vencart|852463|08524632|Planta Permanente|220000.0
