@@ -1,5 +1,5 @@
 
-package ar.com.system2023.mundopc;
+package ar.com.system2023.practicascrum;
 
 
 public class Computadora {
